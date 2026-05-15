@@ -60,15 +60,20 @@ cd "Namma-Shale-app"
 
 The following app screens are included as visual documentation for the submission. Add corresponding image files to the `screenshots/` folder with the names below.
 
-![Splash screen](screenshots/splash.jpeg)
-
-![Login screen](screenshots/login.jpeg)
-
-![Dashboard screen](screenshots/dashboard.jpeg)
-
-![Add asset screen](screenshots/add-asset.jpeg)
-
-![Report screen](screenshots/report.jpeg)
+<table>
+  <tr>
+    <td><img src="screenshots/splash.jpeg" width="280" alt="Splash screen"></td>
+    <td><img src="screenshots/login.jpeg" width="280" alt="Login screen"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/dashboard.jpeg" width="280" alt="Dashboard screen"></td>
+    <td><img src="screenshots/add-asset.jpeg" width="280" alt="Add asset screen"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/report.jpeg" width="280" alt="Report screen"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Project Structure
 
